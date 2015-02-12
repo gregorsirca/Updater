@@ -3,6 +3,26 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{31E315A7-2239-471C-A570-62BAB3D2AC4B}"
+	ProjectSection(SolutionItems) = preProject
+		Castle.Core.dll = Castle.Core.dll
+		Castle.DynamicProxy2.dll = Castle.DynamicProxy2.dll
+		ClaySharp.dll = ClaySharp.dll
+		KiCode.Manager.dll = KiCode.Manager.dll
+		KiCode.Manager.pdb = KiCode.Manager.pdb
+		KiCode.ReservationUpdater.exe = KiCode.ReservationUpdater.exe
+		KiCode.ReservationUpdater.exe.config = KiCode.ReservationUpdater.exe.config
+		KiCode.ReservationUpdater.pdb = KiCode.ReservationUpdater.pdb
+		MongoDB.Bson.dll = MongoDB.Bson.dll
+		MongoDB.Bson.xml = MongoDB.Bson.xml
+		MongoDB.Driver.dll = MongoDB.Driver.dll
+		MongoDB.Driver.xml = MongoDB.Driver.xml
+		Newtonsoft.Json.dll = Newtonsoft.Json.dll
+		Newtonsoft.Json.xml = Newtonsoft.Json.xml
+		RestSharp.dll = RestSharp.dll
+		RestSharp.xml = RestSharp.xml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
